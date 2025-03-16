@@ -19,12 +19,14 @@ header {
 header h3 {
     margin: 0;
     font-size: 24px;
+    text-shadow:-2px 0 0 red ;
 }
 
 header h2 {
     margin: 5px 0 0;
     font-size: 18px;
     color: #f4f4f4;
+    text-shadow:-2px 0 0 red ;
 }
 
 /* Main content styling */
